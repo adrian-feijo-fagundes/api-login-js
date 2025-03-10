@@ -26,4 +26,6 @@ Ainda não definido
 npm init -y
 npm install express dotenv sqlite3 better-sqlite3 jsonwebtoken bcryptjs cors
 npm install -D typescript ts-node @types/node @types/express @types/jsonwebtoken @types/bcryptjs
+npm install sqlite
+npm install -D @types/sqlite3
 ```
